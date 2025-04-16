@@ -21,7 +21,8 @@ class Api {
 
 const api = new Api({
     //address: 'http://localhost:3001',
-    address: 'https://bv-dev.ru',
+    //address: 'https://bv-dev.ru',
+    address: 'https://nomoreparties.co',
 });
 
 export default api;
